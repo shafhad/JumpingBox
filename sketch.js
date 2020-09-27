@@ -25,8 +25,8 @@ function setup(){
 
     ball = createSprite(random(20,750),100, 40,40);
     ball.shapeColor = rgb(255,255,255);
-    ball.velocityX = 3;
-    ball.velocityY = 8;
+    ball.velocityX = 4;
+    ball.velocityY = 9;
 
 }
 
