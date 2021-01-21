@@ -4,7 +4,7 @@ var ball, edges;
 var music;
 
 function preload(){
-    music = loadSound("music.mp3");
+    music = loadSound("music1.mp3");
 }
 
 
